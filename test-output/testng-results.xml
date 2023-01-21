@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-21T12:15:05 IST" name="Default suite" finished-at="2023-01-21T12:15:05 IST" duration-ms="199">
+  <suite started-at="2023-01-21T16:27:16 IST" name="Default suite" finished-at="2023-01-21T16:27:16 IST" duration-ms="180">
     <groups>
     </groups>
-    <test started-at="2023-01-21T12:15:05 IST" name="Default test" finished-at="2023-01-21T12:15:05 IST" duration-ms="199">
-      <class name="Demo.CreateOrgTest">
-        <test-method signature="test1()[pri:0, instance:Demo.CreateOrgTest@52102734]" started-at="2023-01-21T12:15:05 IST" name="test1" finished-at="2023-01-21T12:15:05 IST" duration-ms="33" status="PASS">
+    <test started-at="2023-01-21T16:27:16 IST" name="Default test" finished-at="2023-01-21T16:27:16 IST" duration-ms="180">
+      <class name="Demo.CreateOrg2">
+        <test-method signature="test1()[pri:0, instance:Demo.CreateOrg2@52102734]" started-at="2023-01-21T16:27:16 IST" name="test1" finished-at="2023-01-21T16:27:16 IST" duration-ms="28" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-      </class> <!-- Demo.CreateOrgTest -->
+      </class> <!-- Demo.CreateOrg2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
