@@ -7,6 +7,6 @@ public class CreateOrgTest {
 	@Test
 	public void test1() {
 		
-		System.out.println("create org");
+		System.out.println("create org Hi there");
 	}
 }
